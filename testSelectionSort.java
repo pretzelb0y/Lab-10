@@ -48,9 +48,9 @@ public class testSelectionSort {
        //I do not know if we can use this function :(  Arrays.sort(arr)
 
         // print results of this test
-        System.out.println(" [Positives]... ");
-        for (int i=0; i < arr.length; i++)
-        System.out.print(arr[i] + ", ");
+    //    System.out.println(" [Positives]... ");
+    //    for (int i=0; i < arr.length; i++)
+    //    System.out.print(arr[i] + ", ");
     }
 
     public void testNegative(){
