@@ -20,7 +20,7 @@ public class testSelectionSort {
 
     public testSelectionSort() {
     }
-<<<<<<< HEAD
+		
 		public void testPositive(){
 		        int[] arr = new int[5];
 		        arr[0] = 8;
@@ -113,7 +113,7 @@ public class testSelectionSort {
 		        System.out.print(arr[i] + ", ");
 		    }
 		}
-=======
+
 
 		public void testMixed(){
         /** Test data contains with both positive, negative and zeros **/
@@ -151,4 +151,3 @@ public class testSelectionSort {
         System.out.print(arr[i] + ", ");
     }
 }
->>>>>>> test2
